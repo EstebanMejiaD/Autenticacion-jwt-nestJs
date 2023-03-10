@@ -15,15 +15,20 @@ NodeJs
 <li>
 NPM 
 </li>
+<li>
+Git
+</li>
 
 1. Instala el CLI de NestJs
 
 ```
 npm i -g @nestjs/cli
 ```
-2. <p>Puedes clonar el repositorio de ésta manera</p>
+2. <p>Puedes clonar el repositorio de ésta manera en la ruta que tu quieras hasta en el escritorio si se te hace cómodo</p>
+
+En la linea de comandos pega la siguiente linea.
 ```
-git clone /url_github/
+git clone https://github.com/EstebanMejiaD/Autenticacion-jwt-nestJs.git
 ```
 3. luego de clonar el repositorio debes instalar los modulos de node que necesita el servidor para funcionar.
 Nota: si abres una terminar ya sea cmd PoowerShell o el de tu preferencia, debes ubicarte en la ruta de tu carpeta que acabas de clonar.

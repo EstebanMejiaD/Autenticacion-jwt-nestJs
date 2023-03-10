@@ -9,9 +9,6 @@ import * as Joi from 'joi'
 @Module({
   imports: [ ConfigModule.forRoot({
     isGlobal: true,
-    // validationSchema: Joi.object({
-      
-    // })
   }),CarsModule, AuthModule, ProductsModule],
   controllers: [],
   providers: [],
